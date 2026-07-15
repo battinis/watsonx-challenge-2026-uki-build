@@ -1,6 +1,6 @@
 ---
 name: confluent-sizing
-description: Use when the user wants to size a Confluent Kafka cluster or estimate Confluent Cloud costs — covers on-prem broker/partition/storage sizing, Confluent Cloud tier selection, monthly cost estimation, and IBM Confluent part number / pricing guidance for quoting on IBM paper.
+description: Use when the user wants to size a Confluent Kafka cluster or estimate Confluent Cloud costs — covers on-prem broker/partition/storage sizing, Confluent Cloud tier selection, monthly cost estimation, and IBM Confluent part number / pricing guidance for quoting on IBM paper. Always update this skill when new features comes up.
 ---
 
 # Confluent Sizing & IBM Parts Guide
